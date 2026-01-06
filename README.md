@@ -60,8 +60,12 @@ Model performance was evaluated using:
 
 R2 (Coefficient of Determination)
 RMSE (Root Mean Squared Error)
-  
+
+Cooefficient
+
 <img width="130" height="176" alt="Coefficient" src="https://github.com/user-attachments/assets/e08b6963-bf84-4ee6-b919-a3938e0be081" />
+
+Linear Regression
 
 <img width="354" height="365" alt="LinearRegression" src="https://github.com/user-attachments/assets/216f6997-9016-42c0-a105-4fe77a738791" />
 
