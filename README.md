@@ -33,15 +33,19 @@ Checked for missing or invalid records
 Included charts such as:
 
 Average spend by coffee type
+
 <img width="354" height="217" alt="AvgSpendbyCoffeeType" src="https://github.com/user-attachments/assets/8e82441d-ec59-4547-a628-24f544b6faca" />
 
 Average spend by month 
+
 <img width="354" height="217" alt="AvgSpendbyMonth" src="https://github.com/user-attachments/assets/94ce3572-a3d4-4fb3-a521-2bc843be4c75" />
 
 Average spend by time of day   
+
 <img width="354" height="217" alt="AvgSpendbyTimeofDay" src="https://github.com/user-attachments/assets/d01920d1-4679-47ca-b241-e5603adc482a" />
 
 Transactions by coffee type  
+
 <img width="354" height="217" alt="TransactionsbyCoffeeType" src="https://github.com/user-attachments/assets/d8298a8d-ec8d-4628-834e-765c0e0f5489" />
 
 The following charts were also created in Google Colab but were not used as they showed very little insights to what was being shown in the above
