@@ -22,8 +22,11 @@ scikit-learn - for training and evaluating the Linear Regression model, includin
 
 ## Repository Structure
 notebook/Coffee_Sales.ipynb
+
 data/Coffee_Sales.csv
+
 images/Visualisations and charts
+
 README.md/Project overview
 
 ## Data Cleaning
