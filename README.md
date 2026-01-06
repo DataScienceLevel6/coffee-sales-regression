@@ -63,11 +63,11 @@ RMSE (Root Mean Squared Error)
 
 Cooefficient
 
-<img width="130" height="176" alt="Coefficient" src="https://github.com/user-attachments/assets/e08b6963-bf84-4ee6-b919-a3938e0be081" />
+<img width="354" height="217" alt="Coefficient" src="https://github.com/user-attachments/assets/e08b6963-bf84-4ee6-b919-a3938e0be081" />
 
 Linear Regression
 
-<img width="354" height="365" alt="LinearRegression" src="https://github.com/user-attachments/assets/216f6997-9016-42c0-a105-4fe77a738791" />
+<img width="354" height="217" alt="LinearRegression" src="https://github.com/user-attachments/assets/216f6997-9016-42c0-a105-4fe77a738791" />
 
 
 The model achieved strong performance and showed that coffee type had the biggest impact on spend.
