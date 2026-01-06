@@ -62,7 +62,8 @@ RMSE (Root Mean Squared Error)
 
 Cooefficient
 
-<img width="354" height="217" alt="Coefficient" src="https://github.com/user-attachments/assets/e08b6963-bf84-4ee6-b919-a3938e0be081" />
+<img width="354" height="217" alt="Coefficient" src="https://github.com/user-attachments/assets/04b06c6d-82c8-41bc-8024-f6657e5a7ad8" />
+
 
 Linear Regression
 
