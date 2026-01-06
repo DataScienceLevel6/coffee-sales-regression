@@ -1,6 +1,11 @@
 # Coffee Sales – Linear Regression Project
 
+## About
 This project explores how transactions from a coffee shop can be used to predict customer spend per purchase using a linear regression model. The dataset contains 3,547 transactions between March 2024 and March 2025, including details such as coffee type, time of day, weekday, and payment method. The aim was to identify which factors most influence spend and to demonstrate how a regression model can support data driven decision making.
+
+## Notebook
+
+Notebook: [/notebook/Coffee_Sales.ipynb](notebook/Coffee_Sales.ipynb)
 
 ## Project Objectives
 1. Clean and prepare the dataset for analysis  
