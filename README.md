@@ -7,7 +7,6 @@ This project explores how transactions from a coffee shop can be used to predict
 2. Explore spending patterns using visualisations  
 3. Train a linear regression model to predict transaction value (£)  
 4. Interpret which features have the biggest influence on spend  
-5. Save the cleaned data and model for reuse
 
 ## Tools Used
 The following libraries were used throughout the project:
