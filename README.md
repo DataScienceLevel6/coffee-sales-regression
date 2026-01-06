@@ -17,7 +17,9 @@ Notebook: [/notebook/Coffee_Sales.ipynb](notebook/Coffee_Sales.ipynb)
 The following libraries were used throughout the project:
 
 Pandas - for data manipulation, filtering, and one-hot encoding of categorical variables.
+
 matplotlib and seaborn - for visualisation, enabling the creation of bar charts.
+
 scikit-learn - for training and evaluating the Linear Regression model, including splitting the dataset, fitting the model, and calculating performance metrics (R2 and RMSE).
 
 ## Repository Structure
