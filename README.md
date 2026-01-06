@@ -85,9 +85,7 @@ explaining findings clearly
 Future improvements could include:
 
 testing alternative models 
-
 analysing promotions or loyalty behaviour
-
 building a dashboard for business users
 
 
