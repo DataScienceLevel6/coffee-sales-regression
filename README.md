@@ -87,15 +87,20 @@ The model achieved strong performance and showed that coffee type had the bigges
 This project shows practical data science skills including:
 
 cleaning and preparing real-world data  
+
 using Python for EDA and modelling  
+
 interpreting regression results  
+
 explaining findings clearly  
 
 # Future Improvements
 Future improvements could include:
 
 testing alternative models 
+
 analysing promotions or loyalty behaviour
+
 building a dashboard for business users
 
 
