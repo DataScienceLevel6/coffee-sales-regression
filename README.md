@@ -1,3 +1,7 @@
+
+
+![360_F_326122335_RKvTXMb4RYkIzk94ZoPjkZQe2CUOVnen](https://github.com/user-attachments/assets/1576e367-b50e-480c-a22a-76965b77c422)
+
 # Coffee Sales – Linear Regression Project
 
 ## About
