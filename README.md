@@ -57,14 +57,14 @@ Transactions by coffee type
 
 <img width="354" height="217" alt="TransactionsbyCoffeeType" src="https://github.com/user-attachments/assets/d8298a8d-ec8d-4628-834e-765c0e0f5489" />
 
-The following charts were also created in Google Colab but were not used as they showed very little insights to what was being shown in the above
-
-Heatmap
-Boxplots
+Additional charts (heatmap and boxplots) were created, but were excluded from the final report as they provided limited new insight.
 
 # Model
 
 A Linear Regression model was trained using one-hot encoded features.  
+
+Linear regression was chosen because it is simple, interpretable, and makes it easy to understand how each variable influences spend.
+
 Model performance was evaluated using:
 
 R2 (Coefficient of Determination)
