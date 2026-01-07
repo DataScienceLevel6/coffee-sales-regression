@@ -8,10 +8,13 @@ This project explores how transactions from a coffee shop can be used to predict
 Notebook: [/notebook/Coffee_Sales.ipynb](notebook/Coffee_Sales.ipynb)
 
 ## Project Objectives
-1. Clean and prepare the dataset for analysis  
-2. Explore spending patterns using visualisations  
-3. Train a linear regression model to predict transaction value (£)  
-4. Interpret which features have the biggest influence on spend  
+Clean and prepare the dataset for analysis  
+
+Explore spending patterns using visualisations  
+
+Train a linear regression model to predict transaction value (£)  
+
+Interpret which features have the biggest influence on spend  
 
 ## Tools Used
 The following libraries were used throughout the project:
