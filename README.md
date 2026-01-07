@@ -33,8 +33,11 @@ README.md/Project overview
 
 ## Data Cleaning
 Removed unused columns
+
 Standardised date formats
+
 Converted values into numeric where required
+
 Checked for missing or invalid records
 
 ##  Exploratory Data Analysis
